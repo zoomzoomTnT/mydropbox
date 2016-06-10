@@ -1,4 +1,5 @@
 # mydropbox
+# 文件是公开的所以请不要长时间放重要的资料
 share private files locally
 
 1.) https://git-for-windows.github.io/ 访问这个网站下载github桌面应用, 包含了gitBash 和gitGUI
