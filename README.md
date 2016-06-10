@@ -13,7 +13,13 @@ share private files locally
 
 5.) 使用非常简单，直接新建文件夹，直接新建文件，都和平时一样，但是上传之前我在另一头是看不到你的变化的
 
-6.) 关键是上传，每一次编辑完所有文件之后，回到最外层的文件夹(ie. mydropbox)，点击右键，选择gitGUI here, 点击stage changed， 在文本框里输入这次编辑的summary!!!(ie. 添加3个文件), 点击commit, 然后点击push, 输入用户名(ie. xinrongTao 或 xrtao1116@gmail.com)和密码。
+6.) 关键是上传，每一次编辑完所有文件之后，回到最外层的文件夹(ie. mydropbox)，点击右键，选择gitGUI here, 
+
+点击stage changed， 
+
+在文本框里输入这次编辑的summary!!!(ie. 添加3个文件), 点击commit, 
+
+然后点击push, 输入用户名(ie. xinrongTao 或 xrtao1116@gmail.com)和密码。
 
 7.) 每一次删除文件后，回到最外层的文件夹(ie. mydropbox), 其余步骤和上传一样。输入summary非常重要不输入不可以上传。
 
